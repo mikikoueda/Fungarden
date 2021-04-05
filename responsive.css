@@ -1,9 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-
-@media screen and (max-width: 480px) {
-    body, #harArea1, #form1, #sbox1, footer #hamburgerimg {
-        margin: 0 auto;
-        width: 95%;
-    }
-}
